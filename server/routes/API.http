@@ -1,7 +1,0 @@
-POST http://localhost:5000/api/v1/stable-diffusion
-Content-Type: application/json
-
-{
-  "key":"hLLlNY1bTW4qsy1tJwqXNfmLFdJKi0Gy5dW9q5uD8iHaouPzfw5PEKEo7ONG",
-  "negative_prompt":null,"width":"512","height":"512","samples":"1","num_inference_steps":"20","seed":null,"guidance_scale":7.5,"safety_checker":"yes","multi_lingual":"no","panorama":"no","self_attention":"no","upscale":"no","embeddings_model":null,"webhook":null,"track_id":null
-}
