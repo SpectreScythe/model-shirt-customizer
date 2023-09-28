@@ -28,7 +28,7 @@ export default function Home() {
                             </h1>
                         </motion.div>
                         <motion.div {...headContentAnimation} className="flex flex-col gap-5">
-                            <p className="max-w-md font-normal text-white text-base">
+                            <p className="xl:block hidden max-w-md font-normal text-white drop-shadow-xl text-base">
                                 Create your unique and exclusive shirt with our
                                 brand-new 3D customization tool. <strong>Unleash your
                                 imagination</strong>{" "}
